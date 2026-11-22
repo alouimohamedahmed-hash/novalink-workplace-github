@@ -4,3 +4,4 @@
 - L'utilisateur peut filtrer les salles par date et par heure.
 - Les salles déjà réservées sur ce créneau ne s'affichent pas.
 - L'utilisateur peut voir les caractéristiques de la salle (capacité, équipement).
+  Documentation prête pour validation.
